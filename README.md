@@ -1,8 +1,9 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
 </div>  
-### <ins><div align="center">FE 개발자를 꿈꾸는 유현세 입니다😊</div></ins>  
 
+
+## <div align="center">FE 개발자를 꿈꾸는 유현세 입니다😊</div>  
 - 🌱 멋쟁이 사자처럼 프론트엔드 스쿨 1기 과정을 수료하였습니다.  
   
 
