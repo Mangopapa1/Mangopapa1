@@ -7,7 +7,7 @@
 - 🌱 멋쟁이 사자처럼 프론트엔드 스쿨 1기 과정을 수료했습니다.  
   
 
-- 📖 FE 개발자로 성장하기 위한 준비를 하고 있습니다.(현재 리액트JS를 공부중입니다.)  
+- 📖 FE 개발자로 성장하기 위한 준비를 하고 있습니다. 
   
 
 - 👨‍👩‍👧‍👦 함께 해결하고 성장해 나아가는 것을 좋아합니다.  
@@ -25,7 +25,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 </div>  
 
 <br/>  
